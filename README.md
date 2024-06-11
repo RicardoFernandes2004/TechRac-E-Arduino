@@ -2,6 +2,8 @@
 TECHRAC-E
 Este projeto Arduino lê valores de um potenciômetro para simular a entrada de dados de um sensor EEG, sensores de distância ultrassônicos para simular a distância de um bluetooth e botões, e controla LEDs baseados nesses valores. Ele também envia dados de velocidade e direção lidos do potenciômetro para o monitor serial.
 
+Link do circuito no Wokwi: https://wokwi.com/projects/400341831389162497
+
 Componentes Necessários
 Arduino UNO
 Potenciômetro
